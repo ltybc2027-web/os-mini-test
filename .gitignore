@@ -6,3 +6,6 @@ os.bin
 *.elf
 *.bin
 
+# .NET build artifacts
+**/bin/
+**/obj/
